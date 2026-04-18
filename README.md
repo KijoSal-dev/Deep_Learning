@@ -74,17 +74,22 @@ The model demonstrates strong performance in recognizing handwritten digits from
 ### Model Accuracy
 This plot shows how the model's accuracy improved during training while monitoring validation performance.
 
-![Training Accuracy](screenshots/training_accuracy.png)
+![Training Accuracy](screenshots/accuracy.png)
 
 ### Model Loss
 Loss decreases over time as the model learns the patterns in the training data.
 
-![Training Loss](screenshots/training_loss.png)
+![Training Loss](screenshots/loss.png)
 
 ## Confusion Matrix
 The confusion matrix shows the number of correct and incorrect predictions for each digit class. Most digits are correctly classified, indicating strong model performance.
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](screenshots/matrix.png)
+
+## Classification Report
+The classification report summarizes the model performance.
+
+![Classification Report](screenshots/report.png)
 
 ## Classification Report
 
