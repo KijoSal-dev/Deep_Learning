@@ -71,6 +71,11 @@ The model demonstrates strong performance in recognizing handwritten digits from
 
 ## Training Visualization
 
+### Visualize Sample Images
+This plot shows how the model plots some digits from the dataset.
+
+![Visualize Sample Images](sample.png)
+
 ### Model Accuracy
 This plot shows how the model's accuracy improved during training while monitoring validation performance.
 
